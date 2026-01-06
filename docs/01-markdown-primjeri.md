@@ -5,4 +5,4 @@
 | Ana  | Java     | Intermediate |
 
 ![slike](1x.avif)
-![jos slika](Untitled-1.fla)
+![jos slika](SavedPictures/Untitled-1.fla)
