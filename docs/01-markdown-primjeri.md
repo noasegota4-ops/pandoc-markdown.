@@ -5,4 +5,11 @@
 | Ana  | Java     | Intermediate |
 
 ![slike](1x.avif)
-![jos slika](SavedPictures/Untitled-1.fla)
+
+```python
+x = 5
+y = 7
+print(x+y)
+
+12
+```
